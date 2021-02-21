@@ -12,7 +12,7 @@ def mainMenuLoader():
         Nothing
     """
 
-    print("\n*************")
+    print("\n*************"
           "\n* Main Menu *"
           "\n*************"
           "\n1. Calculate the sum"
