@@ -1,4 +1,4 @@
-# Looping-Calculator
+# Looping Calculator
 
 ## Description
 
